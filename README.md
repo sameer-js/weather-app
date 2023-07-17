@@ -1,7 +1,7 @@
 # weather-app
 
 Application to display temperature and weather details of entered city.
-Created using React, Bootstrap(icons), Axios.
+Created using React, Bootstrap(icons), Axios.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
